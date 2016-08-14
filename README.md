@@ -16,7 +16,7 @@ My strong feeling is that statisticians should be able to handle the data in wha
 to see the raw data, understand the steps in the processing pipeline, and be able to incorporate hidden sources of
 variability in one's data analysis. On the other hand, for many data types, the processing steps are well documented
 and standardized. So the work of converting the data from raw form to directly analyzable form can be performed 
-before calling on a statistician. This can dramatically speed the turnaround time, since the statistician doesn't
+before calling on a statistician. This can dramatically speed the turnaround【n. 转变；转向；突然好转；回车道】 time, since the statistician doesn't
 have to work through all the pre-processing steps first. 
 
 
@@ -171,7 +171,7 @@ You should then expect from the statistician:
 
 1. An analysis script that performs each of the analyses (not just instructions)
 1. The exact computer code they used to run the analysis
-1. All output files/figures they generated. 
+1. All output files/figures they generated【vt. 使形成】. 
 
 This is the information you will use in the supplement to establish reproducibility and precision of your results. Each
 of the steps in the analysis should be clearly explained and you should ask questions when you don't understand
