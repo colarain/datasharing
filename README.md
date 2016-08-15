@@ -1,23 +1,23 @@
-How to share data with a statistician
+How to share data with a statistician如何与一个统计学家（分析师）分项数据
 ===========
 
-This is a guide for anyone who needs to share data with a statistician. The target audiences I have in mind are:
+This is a guide for anyone who needs to share data with a statistician. The target audiences I have in mind are:这是一个面向任何想同一个统计学家分析数据的指导。我的目标读者是：
 
-* Scientific collaborators who need statisticians to analyze data for them
-* Students or postdocs in scientific disciplines looking for consulting advice
-* Junior statistics students whose job it is to collate/clean data sets
+* Scientific collaborators who need statisticians to analyze data for them当需要统计学家为他们分析数据的科学和作者
+* Students or postdocs in scientific disciplines looking for consulting advice寻找咨询建议的统计学方向的学生或者博士后
+* Junior statistics students whose job it is to collate/clean data sets工作是校验/清理数据的高年级统计学生
 
 The goals of this guide are to provide some instruction on the best way to share data to avoid the most common pitfalls
 and sources of delay in the transition from data collection to data analysis. The [Leek group](http://biostat.jhsph.edu/~jleek/) works with a large
 number of collaborators and the number one source of variation in the speed to results is the status of the data
-when they arrive at the Leek group. Based on my conversations with other statisticians this is true nearly universally.
+when they arrive at the Leek group. Based on my conversations with other statisticians this is true nearly universally.这个指导的目标是提供一些分项数据的最好的方法的介绍来避免常见的陷阱或者拖延的原因在收集数据到分析数据的过程中。【Leek group】 (http://biostat.jhsph.edu/~jleek/) 同数量很多的合作者一起工作，排在第一位的关于速度的变量来源是数据来到Leek group手中的过程。根据我同其他统计学家的交流着几乎是共同的。
 
 My strong feeling is that statisticians should be able to handle the data in whatever state they arrive. It is important
 to see the raw data, understand the steps in the processing pipeline, and be able to incorporate hidden sources of
 variability in one's data analysis. On the other hand, for many data types, the processing steps are well documented
 and standardized. So the work of converting the data from raw form to directly analyzable form can be performed 
 before calling on a statistician. This can dramatically speed the turnaround time, since the statistician doesn't
-have to work through all the pre-processing steps first. 
+have to work through all the pre-processing steps first. 我有一个强烈的
 
 
 What you should deliver to the statistician
